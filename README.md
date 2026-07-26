@@ -18,3 +18,4 @@ This is another update for Pull Shark badge.
 
 ## Co-author Update
 This is a co-authored update for Pair Extraordinaire badge.
+Updated badge earner
