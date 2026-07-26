@@ -15,3 +15,6 @@ This is a quick update for YOLO badge.
 
 ## Another Update
 This is another update for Pull Shark badge.
+
+## Co-author Update
+This is a co-authored update for Pair Extraordinaire badge.
