@@ -10,5 +10,8 @@ Repository for earning GitHub badges.
 - 🧠 Galaxy Brain
 - 💪 Pair Extraordinaire
 
+## Quick Update
+This is a quick update for YOLO badge.
+
 ## Another Update
 This is another update for Pull Shark badge.
