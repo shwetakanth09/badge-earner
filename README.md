@@ -9,3 +9,6 @@ Repository for earning GitHub badges.
 - 🐙 Pull Shark
 - 🧠 Galaxy Brain
 - 💪 Pair Extraordinaire
+
+## Another Update
+This is another update for Pull Shark badge.
